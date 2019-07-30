@@ -1,0 +1,107 @@
+
+
+
+div#wrapper{
+	position: relative;
+	width: 960px;
+	margin: 0 auto;
+}
+
+
+
+/* HEADER ------------------------------------------------------------*/
+
+div#header{
+	overflow: hidden;
+	position: relative;
+	height: 210px;
+	width: 100%;
+
+}
+
+
+div#header img#logo{
+	position: absolute;
+	top:10px;
+	left: 0px;
+	width:150px;
+}
+
+
+
+/* NAV ------------------------------------------------------------*/
+
+ul#nav{
+	display: block;
+	position: absolute;
+	top:120px;
+	right: 0px;
+	width: 500px;
+	z-index: 300;
+}
+
+ul#nav li{
+	display: block;
+	float: right;
+}
+
+ul#nav li a{
+	font-size: 16px;
+	text-decoration: none;
+	margin-left: 15px;
+	padding-right:15px;
+	border-right: 1px solid #665d4e;
+}
+
+
+
+/* SLIDESHOW ------------------------------------------------------------*/
+
+div#slideshow{
+	overflow: hidden;
+	position: relative;
+	height: 380px;
+	margin-bottom: 5px;
+	width: 960px;
+}
+/*to set  width height etc. of slider*/
+div#slideshow ul#slides{
+	margin: 0 auto;
+	width: 950px;
+	height: 337px;
+	position: absolute;
+	top:20px;
+	left: 5px;
+}
+
+
+
+
+/*to set position in right bottom corner*/
+#slideshow-nav{
+	display: block;
+	position: absolute;
+	overflow: hidden;
+	bottom: 40px;
+	right: 20px;
+	z-index: 20;
+}
+
+/* for slide button image ooo */
+#slideshow-nav a { 
+	display: block;
+	float: left;
+	background: url(../img/slidebutton.png) no-repeat; 
+	height: 15px;
+	width: 15px;
+	text-indent: -9000px;
+	margin-right: 5px;
+}
+/*To show active slide through slidebutton img */
+#slideshow-nav a.activeSlide { 
+	background: url(../img/slidebutton-over.png) no-repeat; 
+}
+
+
+
+
