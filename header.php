@@ -36,6 +36,7 @@
           <li class="custom"><a href="javascript:;">GALLERY</a></li>
 
           <li class="custom"><a href="index.php">HOME</a>
+          <li class="custom"><a href="login.html">login</a>
           </ul>
           <!-- ENDS navigation -->
           <!-- HEADER -->
