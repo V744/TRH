@@ -2,7 +2,7 @@
 
 body{
 	background: #f9f7e8 url(../img/spring/bg.gif) repeat-x top center;
-	 /*background: url(../img/rhythm-21.gif); */
+	/*background: url(../img/rhythm-21.gif); */
 }
 
 
@@ -29,6 +29,7 @@ div.comments ol.comments-list li p.meta span{
 div#posts div.post a.more,
 div.holder div.block a.more{
 	background: url(../img/spring/more-button.png) no-repeat;
+	
 }
 
 
