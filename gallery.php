@@ -1,7 +1,7 @@
 <?php include('header.php'); ?>    
 <!-- MAIN -->
 <div id="main">        
-  <!-- more galleries -->
+  <!--- more galleries --->
   <div class="one-col">
     <div class="col">
       <h3 class="custom title-1"><center>GALLERY</center></h3>
@@ -22,7 +22,7 @@
                   <div class="caption">
                     <p>The 5 Seconds Rule</p>
                   </div>
-                </a>
+                 </a>
               </div>
             </div>
             <div class="col-sm-3">
