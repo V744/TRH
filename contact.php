@@ -1,8 +1,8 @@
 <?php include('header.php');?>
-  <!-- MAIN -->
+  <!--- MAIN --->
   <div id="main">
     <p class="section-title"><span class="title custom">Contact Us</span><span class="desc">Send us a message.</span></p>
-    <!-- left-content -->
+    <!--- left-content --->
     <div class="contact-left">
       <h5 class="custom">Use the form below to send us your comments</h5>
       <!-- form -->
