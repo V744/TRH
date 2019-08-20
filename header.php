@@ -1,4 +1,4 @@
-<?php session_start(); ?>
+﻿<?php session_start(); ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
@@ -150,7 +150,7 @@
                   <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">User
                   <span class="caret"></span></button>
                   <ul class="dropdown-menu">
-                    <li><a href="login-btn">Logout</a></li>
+                    <li><a href="login.php">Logout</a></li>
                   </ul>
                 </div>            
             <?php } ?>    
