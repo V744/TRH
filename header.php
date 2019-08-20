@@ -150,7 +150,7 @@
                   <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">User
                   <span class="caret"></span></button>
                   <ul class="dropdown-menu">
-                    <li><a href="logout.php">Logout</a></li>
+                    <li><a href="login-btn">Logout</a></li>
                   </ul>
                 </div>            
             <?php } ?>    
